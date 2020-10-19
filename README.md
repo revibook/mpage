@@ -1,1 +1,1 @@
-# manage.github.io
+# https://revibook.github.io/mpage/
